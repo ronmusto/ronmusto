@@ -1,6 +1,6 @@
 # Renaldo Musto
 
-Software Developer in Burlington, Massachusetts, building full stack products, data workflows, and cloud systems. I work across responsive interfaces, backend services, relational data, deployment, and verification to turn operational needs into practical software.
+Software Developer in the Greater Boston area, building full stack products, data workflows, and cloud systems. I work across responsive interfaces, backend services, relational data, deployment, and verification to turn operational needs into practical software.
 
 I currently work at [Jakomu](https://www.jakomu.net/), where I build reusable and client specific applications with TypeScript, React, Next.js, NestJS, PostgreSQL, and AWS. My recent work includes cloud backed business tools, data sourcing and scoring workflows, authenticated review interfaces, AI assisted document generation, automated testing, and cost conscious deployment.
 
