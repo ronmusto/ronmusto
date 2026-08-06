@@ -2,7 +2,7 @@
 
 Software Developer in the Greater Boston area building full stack products, data workflows, and cloud systems. I work across responsive interfaces, backend services, relational data, deployment, and verification to turn operational needs into practical software.
 
-[Portfolio](https://renaldomusto.com/) | [LinkedIn](https://www.linkedin.com/in/renaldomusto) | [Resume](https://renaldomusto.com/)
+[Portfolio](https://renaldomusto.com/) | [LinkedIn](https://www.linkedin.com/in/renaldomusto) | [Resume](https://renaldomusto.com/renaldo-musto-resume.pdf)
 
 ## Current work
 
