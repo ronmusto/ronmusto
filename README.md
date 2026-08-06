@@ -10,8 +10,9 @@ I currently work at [Jakomu](https://www.jakomu.net/), where I build reusable so
 
 ## Selected engineering work
 
-- [Jakomu engineering case study](https://renaldomusto.com/work/jakomu/) covers my current full stack, cloud, data, and systems work.
-- [Move With Musto](https://movewithmusto.com/) is a production real estate platform with responsive property search, saved and compared homes, data validation, and contact workflows. [Read the case study](https://renaldomusto.com/work/move-with-musto/).
+- [Jakomu platform engineering](https://github.com/ronmusto/jakomu-platform-case-study) covers my current full stack, cloud, data, and systems work using public products and sanitized architecture. [View the portfolio case study](https://renaldomusto.com/work/jakomu/).
+- [Move With Musto](https://github.com/ronmusto/move-with-musto-case-study) documents a production real estate platform with responsive property search, reviewed listing snapshots, data validation, and AWS delivery. [Open the live product](https://movewithmusto.com/).
+- [Startup Growth Model](https://github.com/ronmusto/startup-growth-model-case-study) explains a tested scenario-planning application spanning recurring revenue, staffing, runway, funding, and ownership. The public case study uses synthetic inputs while its source and operating assumptions remain private.
 - [Engineering proof and verification](https://renaldomusto.com/proof/) connects live products, technical decisions, and reviewable evidence.
 
 ## Technical focus
@@ -22,6 +23,6 @@ AWS experience includes S3, Amplify, Lambda, DynamoDB, Route 53 and DNS, IAM, an
 
 ## Public code and private work
 
-GitHub is the canonical home for my personal repositories. The pinned repositories below are selected earlier projects that show full stack development, applied machine learning, statistics, language interoperability, and security fundamentals.
+GitHub is the canonical home for my personal repositories. The pinned repositories focus on current work I can discuss in detail. Public case studies expose the problem, architecture, tradeoffs, and verification while keeping company source, customer data, licensed datasets, credentials, and internal operating assumptions private.
 
 Most recent professional and client code remains private. My contribution activity includes verified private work, while my [portfolio](https://renaldomusto.com/) provides the clearest public record of current production systems and the decisions behind them.
