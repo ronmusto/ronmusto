@@ -10,6 +10,7 @@ I currently work at [Jakomu](https://www.jakomu.net/), where I build reusable so
 
 ## Selected engineering work
 
+- [Portfolio source](https://github.com/ronmusto/renaldomusto-portfolio) is the clean, public Next.js and TypeScript source for renaldomusto.com. Private product code, customer data, interview preparation, and deployment infrastructure are excluded by design.
 - [Jakomu platform engineering](https://github.com/ronmusto/jakomu-platform-case-study) covers my current full stack, cloud, data, and systems work using public products and sanitized architecture. [View the portfolio case study](https://renaldomusto.com/work/jakomu/).
 - [Move With Musto](https://github.com/ronmusto/move-with-musto-case-study) documents a production real estate platform with responsive property search, reviewed listing snapshots, data validation, and AWS delivery. [Open the live product](https://movewithmusto.com/).
 - [Startup Growth Model](https://github.com/ronmusto/startup-growth-model-case-study) explains a tested scenario-planning application spanning recurring revenue, staffing, runway, funding, and ownership. The public case study uses synthetic inputs while its source and operating assumptions remain private.
