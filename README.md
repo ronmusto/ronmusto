@@ -6,7 +6,7 @@ Software Developer in the Greater Boston area building full-stack products, data
 
 ## Current work
 
-I currently work at [Jakomu](https://www.jakomu.net/), where I build reusable software and client-specific interfaces with TypeScript, React, Next.js, NestJS, PostgreSQL, and AWS. My recent work includes cloud-backed business tools, data sourcing and scoring workflows, authenticated review interfaces, AI-assisted document generation, automated testing, and cost-conscious deployment.
+I currently work at [Jakomu](https://jakomu.com/), where I build reusable software and client-specific interfaces with TypeScript, React, Next.js, NestJS, PostgreSQL, and AWS. My recent work includes cloud-backed business tools, data sourcing and scoring workflows, authenticated review interfaces, AI-assisted document generation, automated testing, and cost-conscious deployment.
 
 ## Selected engineering work
 
