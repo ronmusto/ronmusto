@@ -1,6 +1,6 @@
 # Renaldo Musto
 
-Software Developer in the Greater Boston area building full-stack products, data workflows, and cloud systems. I work across responsive interfaces, backend services, relational data, deployment, and verification to turn operational needs into practical software.
+Full-Stack Product Engineer in the Greater Boston area building TypeScript products, data workflows, and cloud systems. I work across responsive interfaces, backend services, relational data, deployment, and verification to turn operational needs into practical software.
 
 [Portfolio](https://renaldomusto.com/) | [LinkedIn](https://www.linkedin.com/in/renaldomusto) | [Resume](https://renaldomusto.com/resume/)
 
@@ -10,10 +10,11 @@ I currently work at [Jakomu](https://jakomu.com/), where I build reusable softwa
 
 ## Selected engineering work
 
-- [Portfolio source](https://github.com/ronmusto/renaldomusto-portfolio) is the clean, public Next.js and TypeScript source for renaldomusto.com. Private product code, customer data, and deployment infrastructure are excluded by design.
+- [Portfolio source](https://github.com/ronmusto/renaldomusto-portfolio) is the clean, public Next.js and TypeScript source for renaldomusto.com. Proprietary demo assets remain tightly licensed; customer data, credentials, deployment infrastructure, and private operating material are excluded by design.
 - [Jakomu platform engineering](https://github.com/ronmusto/jakomu-platform-case-study) covers my current full stack, cloud, data, and systems work using public products and sanitized architecture. [View the portfolio case study](https://renaldomusto.com/work/jakomu/).
 - [Move With Musto](https://github.com/ronmusto/move-with-musto-case-study) documents a production real estate platform with responsive property search, reviewed listing snapshots, data validation, and AWS delivery. [Open the live product](https://movewithmusto.com/).
 - [Startup Growth Model](https://github.com/ronmusto/startup-growth-model-case-study) includes a runnable, independently rewritten synthetic engine and tests for recurring revenue, staffing capacity, cash, funding, and ownership. The full application and operating assumptions remain private.
+- [Synapse](https://renaldomusto.com/work/digital-library/) is a live timestamp-aware NASA media workspace with synchronized playback, transcript evidence, source links, genuine reviewer-frame previews, and isolated public-demo routing. [Open the public demo](https://synapse.renaldomusto.com/demo).
 - [Engineering proof and verification](https://renaldomusto.com/proof/) connects live products, technical decisions, and reviewable evidence.
 
 ## Technical focus
@@ -24,6 +25,6 @@ AWS experience includes S3, Amplify, Lambda, DynamoDB, Route 53 and DNS, IAM, an
 
 ## Public code and private work
 
-GitHub is the canonical home for my personal repositories. The pinned repositories focus on current work I can discuss in detail. Public case studies expose the problem, architecture, tradeoffs, and verification while keeping company source, customer data, licensed datasets, credentials, and internal operating assumptions private.
+GitHub is the canonical home for my personal repositories. The pinned portfolio source and case-study repositories focus on current work I can discuss in detail; the profile links Synapse through that existing portfolio evidence rather than publishing a separate copy of its proprietary source. Public case studies expose the problem, architecture, tradeoffs, and verification while keeping company source, customer data, licensed datasets, credentials, and internal operating assumptions private.
 
 Most recent professional and client code remains private. My contribution activity includes verified private work, while my [portfolio](https://renaldomusto.com/) provides the clearest public record of current production systems and the decisions behind them.
